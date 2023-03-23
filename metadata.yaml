@@ -1,0 +1,31 @@
+_repo: Bobby-and-Betty-with-the-workers_70328
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brand, Mary Spoor
+    gutenberg_agent_id: '55705'
+    url: http://www.gutenberg.org/2009/agents/55705
+creator:
+  author:
+    agent_name: Dopp, Katharine Elizabeth
+    birthdate: 1863
+    gutenberg_agent_id: '28405'
+    url: http://www.gutenberg.org/2009/agents/28405
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70328'
+language: en
+pgterms:marc905: 20190709160859dopp
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Lisa Corcoran and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bRand McNally and Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bobby and Betty with the workers
+url: http://www.gutenberg.org/ebooks/70328
